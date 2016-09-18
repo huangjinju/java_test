@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">电脑猜拳游戏</string>
+    <string name="action_settings">Settings</string>
+	<string name="prompt_com_play">电脑出拳</string>
+    <string name="prompt_my_play">玩家出拳</string>
+	<string name="play_scissors">剪刀 </string>
+    <string name="play_stone">石头</string>
+	<string name="play_paper">布 </string>
+    <string name="player_win">恭喜，你赢了 </string>
+	<string name="player_lose">很可惜，你输了</string>
+	<string name="player_draw">双方平手</string>
+	<string name="prompt_title">和电脑猜拳</string>
+	<string name="result">判定输赢:</string>
+</resources>

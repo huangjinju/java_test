@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-	private TextView mTxtComPlay,mTxtResult;
+	private TextView mTxtResult;
 	private ImageView mImgViewComPlay;
 	private ImageButton mImgBtnScissors,mImgBtnStone,mImgBtnPaper;
 	
